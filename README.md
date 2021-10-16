@@ -1,0 +1,2 @@
+# FOODYUK
+FOODYUK adalah sebuah aplikasi yang berfokus pada dunia kuliner yang mana juga disini masyarakat tidak hanya bisa memesan makanan/minuman seperti aplikasi yang lain, namun bisa melakukan pengecekan tentang kandungan/nutrisi pada makanan yang ingin mereka beli, sehingga mereka tetap bisa mengontrol apa yang mereka makan. Masyarakat juga dapat mencari resep makanan yang sesuai dengan keinginan mereka, dan dapat melakukan scanning gambar makanan jika mereka tidak mengetahui nama dari makanan tersebut. 
